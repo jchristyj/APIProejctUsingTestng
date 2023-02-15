@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-02T13:50:27 EST" name="Suite" finished-at="2023-02-02T13:50:32 EST" duration-ms="5593">
+  <suite started-at="2023-02-15T13:46:48 EST" name="Default suite" finished-at="2023-02-15T13:46:53 EST" duration-ms="5587">
     <groups>
     </groups>
-    <test started-at="2023-02-02T13:50:27 EST" name="API Test" finished-at="2023-02-02T13:50:32 EST" duration-ms="5593">
+    <test started-at="2023-02-15T13:46:48 EST" name="Default test" finished-at="2023-02-15T13:46:53 EST" duration-ms="5587">
       <class name="Test.ValidationTest">
-        <test-method is-config="true" signature="getPopulation()[pri:0, instance:Test.ValidationTest@378542de]" started-at="2023-02-02T13:50:27 EST" name="getPopulation" finished-at="2023-02-02T13:50:29 EST" duration-ms="2490" status="PASS">
+        <test-method is-config="true" signature="getPopulation()[pri:0, instance:Test.ValidationTest@15bbf42f]" started-at="2023-02-15T13:46:48 EST" name="getPopulation" finished-at="2023-02-15T13:46:50 EST" duration-ms="2447" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getPopulation -->
-        <test-method signature="Test()[pri:0, instance:Test.ValidationTest@378542de]" started-at="2023-02-02T13:50:29 EST" name="Test" finished-at="2023-02-02T13:50:32 EST" duration-ms="3017" status="PASS">
+        <test-method signature="Test()[pri:0, instance:Test.ValidationTest@15bbf42f]" started-at="2023-02-15T13:46:50 EST" name="Test" finished-at="2023-02-15T13:46:53 EST" duration-ms="3070" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
       </class> <!-- Test.ValidationTest -->
-    </test> <!-- API Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
